@@ -1,8 +1,8 @@
 
 {
 	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"description": "Fully Costamisable Bot by, Lachin Eke.",
+	"repository": "https://github.com/warire6001/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
@@ -79,22 +79,22 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "İletsimeke@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/c/LacinEke"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/EkeLachin/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/Lachin.Eke/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
@@ -119,12 +119,12 @@
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/Lachin.Eke/"
         },
     "BUTTONURL_LINK2": {
             "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/c/LacinEke"
         },
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
